@@ -1,5 +1,6 @@
 ### The proffessional and unproffessional 🙂
 
+[![cellork's GitHub stats](https://github-readme-stats-new-ten.vercel.app/api?username=cellork&theme=github_dark)](https://github.com/cellork/github-readme-stats)
 [![Top Langs](https://github-readme-stats-new-ten.vercel.app/api/top-langs/?username=cellork&layout=compact&theme=github_dark)](https://github.com/cellork/github-readme-stats)
 
 <!--
