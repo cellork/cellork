@@ -1,6 +1,6 @@
 ### The proffessional and unproffessional 🙂
 
-<!--![cellork's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)-->
+![cellork's GitHub stats](https://github-readme-stats-cellork.vercel.app/api?username=cellork&show_icons=true&theme=github_dark)
 
 <!--
 **cellork/cellork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
